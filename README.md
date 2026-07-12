@@ -22,10 +22,17 @@ Through this analysis, actionable insights were extracted by answering the follo
 
 1. **What was the best month for sales? How much was earned that month?**
    * *Identified peak purchasing seasons to help allocate inventory.*
+
+![Sales Chart](images/sales-by-month.png)
+
 2. **What city had the highest number of sales?**
    * *Pinpointed geographical hotspots for targeted regional marketing.*
+
+![Sales Chart](images/sales-by-city.png)
+
 3. **What time should we display advertisements to maximize the likelihood of a customer's buying product?**
    * *Analyzed order hours to recommend optimal ad-spend schedules (e.g., targeting the 11 AM and 7 PM peaks).*
+
 4. **What products are most often sold together?**
    * *Utilized `itertools` and `collections` to find product combinations, providing opportunities for cross-selling and bundling strategies.*
 5. **What product sold the most? Why do you think it sold the most?**
